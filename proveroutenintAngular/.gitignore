@@ -42,4 +42,4 @@ testem.log
 Thumbs.db
 
 #OTHERS FILES
-workspace.xml
+./idea
